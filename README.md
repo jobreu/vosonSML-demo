@@ -1,5 +1,5 @@
 # vosonSML-demo
-Demo repo for collecting YouTube comments with the R package vosonSML
+Demo repo for collecting YouTube comments with the `R` package [vosonSML](https://vosonlab.github.io/vosonSML/)
 
 Created for the masters-level seminar "Erforschung von politischer Online-Kommunikation mit digitalen Methoden" ("Studying political online communication with digital methods") at the University of Duisburg-Essen (winter term 2025/2026).
 
